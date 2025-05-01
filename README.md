@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+# I'm Nick, a software engineer based in Boston. Thanks for checking out my code!
+
 <!--
 **nickbartlett19/nickbartlett19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
